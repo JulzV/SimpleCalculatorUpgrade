@@ -40,5 +40,9 @@ public class Main {
                 break;
         }
         return answer;
+
+
+        // create a method that checks two numbers and uses a switch to return max, min
+
     }
 }
