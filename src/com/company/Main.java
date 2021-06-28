@@ -60,6 +60,9 @@ public class Main {
             case "Max":
                 answer = Math.max(minMax1, minMax2);
                 return answer;
+            default:
+                System.out.println("Enter a valid operator");
+                return answer;
         }
     return answer;
     }
